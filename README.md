@@ -131,9 +131,9 @@ The model demonstrates how machine learning can be used to predict customer chur
 
 ## 📁 Project Structure
 customer-churn-prediction/
-churn_data.xlsx
 churn_data.csv
-churn_prediction.py
+churn_data.csv.txt
+churn_prediction.py.py
 feature-importance.png
 model-results.jpg
 README.md
